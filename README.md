@@ -1,6 +1,6 @@
 # to-do-list
 
-A simple to do list, with datadase (MongoDB Atlas).
+A simple to do list, built with Javascript. Each page list is saved in database (MongoDB).
 
 ## How it looks
 
